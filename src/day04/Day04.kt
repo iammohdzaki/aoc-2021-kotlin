@@ -1,6 +1,6 @@
 package day04
 
-import day04.model.BingoBoard
+import day04.entity.BingoBoard
 import readInput
 
 /**

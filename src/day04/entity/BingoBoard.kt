@@ -1,4 +1,4 @@
-package day04.model
+package day04.entity
 
 data class BingoBoard(
     val fields: List<MutableList<BingoField>>
